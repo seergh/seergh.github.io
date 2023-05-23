@@ -1,14 +1,14 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Karla Landaverde
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Tu Inspiración Curvy para Moda, Belleza y Estilo de Vida
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://avatars.githubusercontent.com/u/16854889?s…00&u=05e615f70d37643d0dc6bd7e36bccf12622e412b&v=4
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://images.unsplash.com/photo-1533158326339-7f3cf2404354?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1920&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29sb3JmdWxsfHx8fHx8MTY4NDgxMTE1OA&ixlib=rb-4.0.3&q=80&w=1080
 
 # SOCIAL MEDIA
 links:
@@ -16,97 +16,110 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+  - #Name: Facebook
+    #URL: https://www.facebook.com
+    #Username: harsh98trivedi
+    #Color: '#3b5998'
+    #Icon-Class: fab fa-facebook
 
+    # Cal.com
+  - #Name: Cal.com
+    #URL: https://cal.com
+    #Username: harshtrivedi
+    #Color: '#232323'
+    #Icon-Class: fa fa-calendar-check
+
+    # CLUBHOUSE
+  - #Name: Clubhouse
+    #URL: https://www.clubhouse.com
+    #Username: '@harsh98trivedi'
+    #Color: '#f1c40f'
+    #Icon-Class: fas fa-hand-paper -mt-0.5
+    
+    # LINKEDIN
+  - #Name: LinkedIn
+    #URL: https://www.linkedin.com/in
+    #Username: harsh98trivedi
+    #Color: '#2867B2'
+    #Icon-Class: fab fa-linkedin-in
+
+    # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/
+    Username: Karlyland
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+    # GITHUB
+  - #Name: GitHub
+    #URL: http://github.com
+    #Username: harsh98trivedi
+    #Color: '#6e5494'
+    #Icon-Class: fab fa-github
+
+    # EMAIL
+  - #Name: Email
+    #URL: 'mailto:harshtrivedi@duck.com'
+    #Icon-Class: fas fa-envelope
+    #Color: '#e17055'
+    #Text_Color: '#ffffff'
+    # AMAZON
+  - Name: Mis Fav de Amazon
+    URL: https://www.amazon.com/shop/
+    Username: karlyland 
+    Color: '#E57911'
+    Icon-Class: fab fa-amazon
+    Text_Color: '#ffffff'
+
+    # BUY ME A COFFEE
+  - Name: Invítame un Café
+    URL: https://paypal.me/
+    Username: holakarlyland
+    Icon-Class: fa-brands fa-paypal
+    Color: '#2997D8'
+    Text_Color: '#ffffff'
+
+    # TWITCH
+  - Name: Twitch
+    URL: https://twitch.tv/
+    Username: Karlyland
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: soykarlyland
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: harsh98trivedi
+    Username: soykarlyland
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
-
-    # Cal.com
-  - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
-    Color: '#232323'
-    Icon-Class: fa fa-calendar-check
-
-    # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
-    
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: harsh98trivedi
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-    # TWITCH
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: harsh98trivedi
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
-
     # VIMEO
-  - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: harshtrivedi
-    Icon-Class: fab fa-vimeo-v
-    Color: '#1ab7ea'
-    Text_Color: '#ffffff'
+  - #Name: Vimeo
+    #URL: 'https://vimeo.com'
+    #Username: harshtrivedi
+    #Icon-Class: fab fa-vimeo-v
+    #Color: '#1ab7ea'
+    #Text_Color: '#ffffff'
 
     # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
+  - #Name: Messenger
+    #URL: https://m.me
+    #Username: theharshtrivedi
+    #Color: '#006AFF'
+    #Icon-Class: fab fa-facebook-messenger
 
     # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
+  - #Name: Reddit
+    #URL: http://reddit.com/u
+    #Username: harshtrivedi
+    #Color: '#FF4500'
+    #Icon-Class: fab fa-reddit-alien
 
   #   # WHATSAPP
   # - Name: WhatsApp
@@ -116,27 +129,27 @@ links:
   #   Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: theharshtrivedi
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
+  - #Name: Telegram
+    #URL: http://telegram.me
+    #Username: theharshtrivedi
+    #Color: '#0088cc'
+    #Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
-  - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
+  - #Name: Snapchat
+    #URL: https://www.snapchat.com/add
+    #Username: 'harsh98trivedi'
+    #Color: '#FFFC00'
+    #Text_Color: '#000000'
+    #Icon-Class: fab fa-snapchat-ghost
 
-    # STEAM
-  - Name: Steam
-    URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
-    Color: '#66c0f4'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-steam
+    ## STEAM
+  - #Name: Steam
+    #URL: https://steamcommunity.com/id
+    #Username: 'harshtrivedi'
+    #Color: '#66c0f4'
+    #Text_Color: '#000000'
+    #Icon-Class: fab fa-steam
 
   #   # DISCORD
   # - Name: Discord
@@ -149,16 +162,16 @@ links:
     # PINTEREST
   - Name: Pinterest
     URL: https://pinterest.com
-    Username: 'harsh98trivedi'
+    Username: 'soykarlyland'
     Color: '#E60023'
     Icon-Class: fab fa-pinterest
 
     # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: harsh98trivedi
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
+  - #Name: Behance
+    #URL: https://www.behance.net
+    #Username: harsh98trivedi
+    #Color: '#1769ff'
+    #Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
@@ -168,94 +181,85 @@ links:
   #   Icon-Class: fab fa-dribbble
 
     # DEVIANTART
-  - Name: DeviantArt
-    URL: https://www.deviantart.com
-    Username: harshtrivedi
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
-    Text_Color: '#ffffff'
+  - #Name: DeviantArt
+    #URL: https://www.deviantart.com
+    #Username: harshtrivedi
+    #Icon-Class: fab fa-deviantart
+    #Color: '#05CC46'
+    #Text_Color: '#ffffff'
 
     # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: '@harshtrivedi'
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
+  - #Name: Figma
+    #URL: https://www.figma.com
+    #Username: '@harshtrivedi'
+    #Icon-Class: fab fa-figma
+    #Color: '#ff2865'
+    #Text_Color: '#ffffff'
 
     # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
+  - #Name: Spotify
+    #URL: http://open.spotify.com/user
+    #Username: 314ihryk3edvtusti6il3oy3x5da
+    #Color: '#1DB954'
+    #Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: harsh98trivedi
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+  - #Name: SoundCloud
+    #URL: https://www.soundcloud.com
+    #Username: harsh98trivedi
+    #Color: '#FE5000'
+    #Icon-Class: fab fa-soundcloud
 
-  - Name: Skype
-    URL: https://join.skype.com/invite/e6vMrfsYKn9e
-    Icon-Class: fa-brands fa-skype
-    Color: '#00aff0'
-    Text_Color: '#ffffff'
+  - #Name: Skype
+    #URL: https://join.skype.com/invite/e6vMrfsYKn9e
+    #Icon-Class: fa-brands fa-skype
+    #Color: '#00aff0'
+    #Text_Color: '#ffffff'
 
-  #    # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username: 
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
+    # TIKTOK
+  - Name: TikTok
+    URL: https://www.tiktok.com/@soykarlyland
+    Username: 
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
 
     # MEDIUM
-  - Name: Medium
-    URL: 'https://medium.com'
-    Username: '@harsh98trivedi'
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
+  - # Name: Medium
+    # URL: 'https://medium.com'
+    # Username: '@harsh98trivedi'
+    # Icon-Class: fab fa-medium-m
+    # Color: '#00ab6c'
+    # Text_Color: '#ffffff'
 
     # DEV.TO
-  - Name: Dev.to
-    URL: 'https://dev.to'
-    Username: harsh98trivedi
-    Icon-Class: fab fa-dev
-    Color: '#ffffff'
-    Text_Color: '#000000'
-
-  #   # TUMBLR
-  # - Name: Tumblr
-  #   URL: https://www.tumblr.com
-  #   Username: 
-  #   Color: '#35465c'
-  #   Icon-Class: fab fa-tumblr
-
-  # BUY ME A COFFEE
-  - Name: BuyMeACoffee
-    URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
-    Icon-Class: fas fa-mug-hot
-    Color: '#FFDD00'
-    Text_Color: '#000000'
+  - # Name: Dev.to
+    # URL: 'https://dev.to'
+    # Username: harsh98trivedi
+    # Icon-Class: fab fa-dev
+    # Color: '#ffffff'
+    # Text_Color: '#000000'
 
     # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
+  - # Name: Tienda de Amazon
+    # URL: https://www.amazon.com/shop/karlyland
+    # Icon-Class: fas fa-link
+    # Color: '#ffb142'
+    # Text_Color: '#ffffff'
 
-  - Name: Links
-    URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
+  - # Name: Links
+    # URL: https://github.com/harsh98trivedi/links
+    # Icon-Class: fas fa-link
+    # Color: '#d94869'
+    # Text_Color: '#ffffff'
+
+# YOUR BRAND/PERSONAL TAGLINE FOR SEO
+Paragraphs: 
+  ¡Bienvenidos a mi mundo! Soy Karla, una chica curvy apasionada por la moda, belleza y estilo de vida. Como influencer y amante de la vida, me dedico a compartir mi pasión por la moda inclusiva, el maquillaje, las uñas artísticas y el arte en todas sus formas. Además, también encontrarás en mi espacio valiosos consejos de decoración, hogar y cómo incorporar las plantas a tu vida. Con mi estilo único y atrevido, quiero romper los estereotipos y demostrar que todas las mujeres, independientemente de su talla, pueden lucir hermosas y seguras de sí mismas. El movimiento "pluz size" es mi motivación diaria, y quiero inspirarte a abrazar tu cuerpo y mostrar al mundo tu verdadera belleza.
+  Desde tendencias de moda hasta tips de maquillaje, mi objetivo es proporcionarte contenido útil y auténtico que te ayude a sentirte increíble en tu propia piel. A través de reseñas honestas y tutoriales prácticos, te mostraré cómo resaltar tus mejores características y explorar tu estilo personal, sin importar tu talla. Pero mi enfoque no se limita solo a la belleza exterior. También creo en la importancia de cuidar nuestro bienestar interior. Compartiré mis experiencias y consejos sobre ejercicio, alimentación saludable y mantener un equilibrio en tu estilo de vida. ¡Juntas lograremos un estilo de vida activo y positivo!
+  Además, me encanta la decoración y transformar los espacios en hogares acogedores. Te guiaré en el mundo de la decoración, desde ideas creativas hasta soluciones prácticas para crear el ambiente perfecto en tu hogar. También te enseñaré cómo incorporar las plantas en tu vida, creando espacios verdes y vibrantes que transmitan calma y serenidad. Estoy emocionada de tenerte como parte de esta comunidad donde la moda, la belleza, el arte, la decoración y el estilo de vida se encuentran. ¡Prepárate para descubrir un mundo de posibilidades y desbloquear tu verdadero potencial! Sígueme y juntos crearemos una experiencia única llena de inspiración y empoderamiento.
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: 'No'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
